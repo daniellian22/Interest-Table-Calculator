@@ -1,7 +1,3 @@
-//Daniel Lian DirectoryID: dlian
-//Philip Huang DirectoryID: phuang16
-//Derek Luc DirectoryID: dluc
-//Mateo Rodriguez DirectoryID: mrodri29
 
 
 package gui;
